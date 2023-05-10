@@ -1,0 +1,16 @@
+D:\semester 5\os project\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+D:\semester 5\os project\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+D:\semester 5\os project\Project1\x64\Debug\Project1.main.resources
+D:\semester 5\os project\Project1\x64\Debug\Project1.MemMng.resources
+D:\semester 5\os project\Project1\x64\Debug\Project1.menu.resources
+D:\semester 5\os project\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+D:\semester 5\os project\Project1\x64\Debug\Project1.exe
+D:\semester 5\os project\Project1\x64\Debug\Project1.cpu.resources
+D:\Semester\semester 5\os project\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+D:\Semester\semester 5\os project\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+D:\Semester\semester 5\os project\Project1\x64\Debug\Project1.cpu.resources
+D:\Semester\semester 5\os project\Project1\x64\Debug\Project1.main.resources
+D:\Semester\semester 5\os project\Project1\x64\Debug\Project1.MemMng.resources
+D:\Semester\semester 5\os project\Project1\x64\Debug\Project1.menu.resources
+D:\Semester\semester 5\os project\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+D:\Semester\semester 5\os project\Project1\x64\Debug\Project1.exe
