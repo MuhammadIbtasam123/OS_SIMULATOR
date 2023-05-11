@@ -2,7 +2,7 @@
 
 1. CPU scheduling:
 Implemention of the following CPU Scheduling algorithms.
-● Multilevel Queue Scheduling
+● Multilevel Queue Scheduling 
 ● Multilevel Feedback Queue Scheduling
 ● Longest Job First
 ● Highest Feedback Ratio Next Scheduling
@@ -10,7 +10,7 @@ Implemention of the following CPU Scheduling algorithms.
 2. Semaphore
 ● Teacher Assistant Evaluation Problem
 
-In this problem, You have to achieve synchronization. There will be 1 teacher assistant, N chairs
+In this problem, we have to achieve synchronization. There will be 1 teacher assistant, N chairs
 for students who will wait for evaluation, 1 chair for a student who will evaluate his/her
 assignment.
 ● If there is no student then the teacher assistant will be busy with his work.
@@ -22,7 +22,7 @@ wait for their turn.
 ● Bankers Algorithm
 
 4. Memory Management
-In this section, you are going to implement following page table concepts:
+In this section, i am going to implement following page table concepts:
 ● Hash page table
 ● Inverted page table
 
